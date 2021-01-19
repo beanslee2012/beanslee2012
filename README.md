@@ -3,9 +3,15 @@
 - 📜 我是一名IT架构师
 - 👨🏽‍💻 我最喜欢的编程语言是PL/SQL和PYthon
 - 🤗 我也是一名电子游戏狂人，欢迎喜欢喷喷(splatoon)的朋友和我一起联机
-- 💬 联系我: beanslee2012@twitter.com【可能不会经常上线】
-- 🙇 特别感谢: github上所有关于splatoon的项目
-
+- 💬 联系我【可能不会经常上线】: 
+      discord频道:https://discord.gg/fxeExjxJZX
+- 🙇 特别感谢github上所有关于splatoon的项目:
+      splatoonwiki:   https://splatoonwiki.org/
+      DeviPotato:     https://github.com/DeviPotato/splat2-calc/
+      selicia:        https://github.com/selicia/splat2-calc/
+      misenhower:     https://github.com/misenhower/splatoon2.ink
+      frozenpandaman: https://github.com/frozenpandaman/splatnet2statink
+   
 
 
 
